@@ -1,8 +1,7 @@
 # Bem-vindo ao meu repo
 
-> separado por tech
-
 ## python
+> separado por tech
 ### atual
 https://github.com/balaclavaboyz/nfe_control
 
