@@ -4,6 +4,7 @@
 
 ### atual
 techs: sqlite, pandas, matplt
+
 tirar insights das notas fiscais de saída como curva ABC, qual estado que mais vendeu, se existe sazonalidade de um produto espeficico, DRE parcial e se existem clientes recorrente(todo mês).
 
 https://github.com/balaclavaboyz/nfe_control
