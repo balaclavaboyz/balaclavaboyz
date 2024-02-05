@@ -1,7 +1,5 @@
 # Bom dia e bem-vindo
 
-## Programador Python
-
 Atualmente programando em Python e também craindo websites em JavaScript com ReactJs.
 
 <!--
