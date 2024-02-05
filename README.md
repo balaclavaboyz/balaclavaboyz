@@ -1,19 +1,8 @@
-# Bem-vindo ao meu repo
+# Bom dia e bem-vindo
 
-## python
+## Programador Python
 
-### atual
-techs: sqlite, pandas, matplt
-
-tirar insights das notas fiscais de saída como curva ABC, qual estado que mais vendeu, se existe sazonalidade de um produto espeficico, DRE parcial e se existem clientes recorrente(todo mês).
-
-https://github.com/balaclavaboyz/nfe_control
-
-### antigos
-https://github.com/balaclavaboyz/scraper_ML_profile
-
-https://github.com/balaclavaboyz/web_scrapper_produtos_distribuidora
-
+Atualmente programando em Python e também craindo websites em JavaScript com ReactJs.
 
 <!--
 **balaclavaboyz/balaclavaboyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
