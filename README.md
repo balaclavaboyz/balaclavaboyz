@@ -1,6 +1,6 @@
 # Bom dia e bem-vindo
 
-Atualmente programando em Python e também craindo websites em JavaScript com ReactJs.
+maioria automacao e web scrapping
 
 <!--
 **balaclavaboyz/balaclavaboyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
